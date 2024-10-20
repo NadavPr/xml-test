@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pricelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Product>
+    <Category>Test Category</Category>
+    <Vendor>Vend</Vendor>
+    <Name>wall mounted clock</Name>
+    <Code>516271490</Code>
+    <GTIN>05702017425207</GTIN>
+    <Description>some desc</Description>
+    <Price>100</Price>
+    <InStore/>
+    <URL/>
+    <ProductURL>https://wolt.com/en/est/tallinn/venue/verkkokauppacom/asus-tuf-gaming-k1-manguklaviatuur-itemid-670f7126a470f8653971ed6d</ProductURL>
+  </Product>
+</Pricelist>
